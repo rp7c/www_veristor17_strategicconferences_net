@@ -1,0 +1,13 @@
+# Site settings
+title: VeriStor Presidents Club 2017
+email: rachel@strategicconferences.net  
+description: > # this means to ignore newlines until "baseurl:"
+
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://locahost:4000" # the base hostname & protocol for your site
+#url: "http://redcargroup.strategicconferences.net"
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+# Build settings
+markdown: kramdown
+exclude: [README.md, README.txt, LICENSE.txt]
