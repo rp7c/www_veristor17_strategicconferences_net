@@ -10,4 +10,4 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 
 # Build settings
 markdown: kramdown
-exclude: [README.md, README.txt, LICENSE.txt]
+exclude: [README.md, README.txt, LICENSE.txt, ASSETS]
