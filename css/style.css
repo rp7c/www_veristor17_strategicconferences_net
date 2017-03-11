@@ -827,7 +827,12 @@
 			-o-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(52, 27, 43, 0.5);
+			/*background: rgba(29,55,95, 0.6);*/
+			text-shadow:
+					-1px -1px 0 #1D375F,
+					1px -1px 0 #1D375F,
+					-1px 1px 0 #1D375F,
+					1px 1px 0 #1D375F;
 			color: white;
 			display: inline-block;
 			opacity: 0;
@@ -852,13 +857,13 @@
 					margin: 0;
 					padding-left: 0.05em;
 					position: relative;
-					text-transform: uppercase;
+					/*text-transform: uppercase;*/
 				}
 
 			#banner .inner p {
 				letter-spacing: 0.1em;
 				margin: 0;
-				text-transform: uppercase;
+				/*text-transform: uppercase;*/
 			}
 
 				#banner .inner p a {
